@@ -1,7 +1,151 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=250&section=header&text=ABHAY%20BARMAN&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20ML%20Enthusiast&descAlignY=55&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=C77DFF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+const+abhay+%3D+new+Developer();+%F0%9F%92%BB+Full+Stack+%2B+Mobile+Apps;+%F0%9F%A4%96+Exploring+Machine+Learning;+%F0%9F%A4%9D+Open+to+Collaborate;+%F0%9F%94%A5+Build.+Break.+Learn.+Grow."
+    alt="Typing SVG"
+  />
+</a>
+
+<br>
+
+<a href="https://abhaybarman-067-my-portfolio-mr57.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_NOW-C77DFF?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ABHAYBARMAN067&color=C77DFF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a1a2e" alt="Profile Views" />
+<a href="https://github.com/ABHAYBARMAN067">
+  <img src="https://img.shields.io/github/followers/ABHAYBARMAN067?style=for-the-badge&color=C77DFF&labelColor=1a1a2e" alt="GitHub Followers" />
+</a>
+
+</div>
+
+<br>
+
+## 🧑‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding gif" />
+
+- 🔭 Building **full stack + mobile apps** with modern frameworks
+- 🌱 Currently deepening skills in **Advanced React & React Native**
+- 🤖 Exploring the fundamentals of **Machine Learning**
+- ⚡ Fun fact: I mix creative UI with powerful backend logic
+- 🎯 Open to: Web apps · Mobile apps · APIs · AI projects
+- 📫 Reach me: **abhaybarman067@gmail.com**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,mysql,aws,git,github,vscode,postman,linux,bash,figma&theme=dark&perline=11" />
+</p>
+
+<div align="center">
+
+| Category | Stack |
+|---|---|
+| **Languages** | Java · JavaScript · TypeScript · Python |
+| **Frontend** | React · Next.js · Tailwind CSS · Bootstrap |
+| **Backend** | Node.js · Express.js |
+| **Database** | MongoDB · MySQL |
+| **Cloud & Tools** | AWS · Git · GitHub · Postman · VS Code |
+| **Animation Libs** | Framer Motion · GSAP · Lenis · TSParticles |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Stack</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>🏨 <b>Hotel Reservation Form</b></td>
+    <td>React · Node.js · Express · MongoDB</td>
+    <td>Hotel booking, food ordering & admin management system</td>
+  </tr>
+  <tr>
+    <td>🏠 <b>TripNest</b></td>
+    <td>Next.js 16 · TypeScript · MongoDB</td>
+    <td>Airbnb-inspired travel listing & booking platform</td>
+  </tr>
+  <tr>
+    <td>🛒 <b>Advanced E-Commerce Platform</b></td>
+    <td>React · Express · MongoDB · JWT</td>
+    <td>User, Seller & Admin role-based commerce system</td>
+  </tr>
+  <tr>
+    <td>📸 <b>The Golden Shutter</b></td>
+    <td>React · Node.js · Express · MongoDB</td>
+    <td>Wedding photography booking & gallery management platform</td>
+  </tr>
+  <tr>
+    <td>📦 <b>Inventory Management System</b></td>
+    <td>React · Node.js · Express · MongoDB</td>
+    <td>Inventory, stock tracking & role-based management system</td>
+  </tr>
+  <tr>
+    <td>🔥 <b>More Coming Soon</b></td>
+    <td>Full Stack · AI · Mobile</td>
+    <td>Continuously building and shipping new ideas</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ABHAYBARMAN067&theme=radical&hide_border=true&background=1a1a2e&ring=C77DFF&fire=C77DFF&currStreakLabel=FFFFFF" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYBARMAN067&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=C77DFF&text_color=FFFFFF" width="45%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAYBARMAN067&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=C77DFF&line=C77DFF&point=FFFFFF" width="100%" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=C77DFF)](https://abhaybarman-067-my-portfolio-mr57.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=C77DFF)](https://github.com/ABHAYBARMAN067)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=C77DFF)](https://www.linkedin.com/in/abhay-barman-9a0b3a277)
+[![CodePen](https://img.shields.io/badge/CodePen-1a1a2e?style=for-the-badge&logo=codepen&logoColor=C77DFF)](https://codepen.io/Abhay-Barman)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=C77DFF)](mailto:abhaybarman067@gmail.com)
+
+</div>
+
+<div align="center">
+
+> *"Build things you love. Break things to learn. Fix things to grow."*
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
 
 
-
-
+==============================================================================================================
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:6D28D9,50:C026D3,100:F472B6&height=220&section=header&text=Abhay%20Barman&fontSize=58&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20ML%20Enthusiast&descAlignY=55&descSize=17&fontColor=ffffff&animation=fadeIn" width="100%" />
