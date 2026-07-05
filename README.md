@@ -2,7 +2,175 @@
 
 
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:6D28D9,50:C026D3,100:F472B6&height=220&section=header&text=Abhay%20Barman&fontSize=58&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20ML%20Enthusiast&descAlignY=55&descSize=17&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=1200&color=C026D3&center=true&vCenter=true&width=650&lines=const+abhay+%3D+new+Developer();Full+Stack+%2B+Mobile+App+Builder;Exploring+React+%26+React+Native;Open+to+Collaborate+%F0%9F%9A%80;Build.+Break.+Learn.+Repeat."
+    alt="Typing SVG"
+  />
+</a>
+
+<br><br>
+
+<a href="https://abhaybarman-067-my-portfolio-mr57.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-View_Live-6D28D9?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ABHAYBARMAN067&color=C026D3&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/ABHAYBARMAN067">
+  <img src="https://img.shields.io/github/followers/ABHAYBARMAN067?style=for-the-badge&color=F472B6&labelColor=1a1a2e" alt="GitHub Followers" />
+</a>
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+### 🙋‍♂️ About Me
+
+```yaml
+Name:      Abhay Barman
+Location:  India 🇮🇳
+Role:      Full Stack Developer
+Focus:     Full Stack Dev · App Dev · Machine Learning
+Learning:  Advanced React & React Native
+Open To:   Web Apps · Mobile Apps · APIs · AI Projects
+Fun Fact:  I mix creative UI with powerful backend logic ⚡
+Contact:   abhaybarman067@gmail.com
+```
+
+</td>
+<td width="40%" valign="top">
+
+### 🎯 Focus Areas
+
+- 🧩 MERN Stack Applications
+- 🔌 REST API Development
+- 📱 Responsive & Mobile UI
+- ☁️ Cloud Deployment
+- 🤖 Machine Learning Basics
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,mysql,aws,git,github,vscode,postman,linux,bash,figma&theme=dark&perline=11" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Animation & UI Toolkit
+
+<img src="https://img.shields.io/badge/Framer_Motion-1a1a2e?style=for-the-badge&logo=framer&logoColor=C026D3" />
+<img src="https://img.shields.io/badge/GSAP-1a1a2e?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+<img src="https://img.shields.io/badge/Lenis_Smooth_Scroll-1a1a2e?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Parallax_Tilt-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TSParticles-1a1a2e?style=for-the-badge&logoColor=1E90FF" />
+<img src="https://img.shields.io/badge/Lucide_React-1a1a2e?style=for-the-badge&logoColor=F56565" />
+<img src="https://img.shields.io/badge/React_Icons-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Nodemailer-1a1a2e?style=for-the-badge&logo=gmail&logoColor=0F9D58" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <th width="50%">Project</th>
+    <th width="50%">Stack & Description</th>
+  </tr>
+  <tr>
+    <td align="center"><b>🏨 Hotel Reservation System</b></td>
+    <td>React · Node.js · Express · MongoDB<br/>Hotel booking, food ordering & admin management</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🏠 TripNest</b></td>
+    <td>Next.js 16 · TypeScript · MongoDB<br/>Airbnb-inspired travel listing & booking platform</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛒 Advanced E-Commerce Platform</b></td>
+    <td>React · Express · MongoDB · JWT<br/>User, Seller & Admin role-based commerce system</td>
+  </tr>
+  <tr>
+    <td align="center"><b>📸 The Golden Shutter</b></td>
+    <td>React · Node.js · Express · MongoDB<br/>Wedding photography booking & gallery platform</td>
+  </tr>
+  <tr>
+    <td align="center"><b>📦 Inventory Management System</b></td>
+    <td>React · Node.js · Express · MongoDB<br/>Stock tracking & role-based management system</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🚀 More Coming Soon</b></td>
+    <td>Full Stack · AI · Mobile Apps<br/>Continuously building and shipping new ideas</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F472B6&icon_color=C026D3&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ABHAYBARMAN067&theme=radical&hide_border=true&background=1a1a2e&ring=C026D3&fire=F472B6&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=F472B6&dates=FFFFFF" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYBARMAN067&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F472B6&text_color=FFFFFF" width="42%" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAYBARMAN067&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=F472B6&line=C026D3&point=ffffff" width="100%" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?logo=vercel&logoColor=white&style=for-the-badge)](https://abhaybarman-067-my-portfolio-mr57.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?logo=github&style=for-the-badge)](https://github.com/ABHAYBARMAN067)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhay-barman-9a0b3a277)
+[![CodePen](https://img.shields.io/badge/CodePen-1a1a2e?logo=codepen&style=for-the-badge)](https://codepen.io/Abhay-Barman)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhaybarman067@gmail.com)
+
+</div>
+
+<div align="center">
+
+> **"Build things you love. Break things to learn. Fix things to grow."**
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:6D28D9,50:C026D3,100:F472B6&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
 =======================================================
 
 
