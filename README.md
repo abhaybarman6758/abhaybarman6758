@@ -1,5 +1,59 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08070d,50:241536,100:2DE3FF&height=200&section=header&text=Creative%20Web%20Experiments&fontSize=55&fontColor=ffffff&animation=twinkling" width="100%" />
+
+# ⚡ Creative Web Experiments
+
+### Interactive Interfaces | Motion Design | Frontend Engineering
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2DE3FF&center=true&vCenter=true&width=700&lines=Building+Futuristic+Interfaces;GSAP+Animation+Experiments;Creative+Frontend+Systems;Design+Meets+Code;Experiment.+Create.+Innovate." />
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-2DE3FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/repo-size/ABHAYBARMAN067/creative-web-experiments?style=for-the-badge&color=241536" />
+
+<img src="https://img.shields.io/github/last-commit/ABHAYBARMAN067/creative-web-experiments?style=for-the-badge&color=ff2d78" />
+
+</div>
+
+---
+
+# 🧪 About This Repository
+
+```js
+const creativeLab = {
+    name: "Creative Web Experiments",
+
+    purpose:
+    "Exploring modern frontend experiences through animation and interaction",
+
+    focus: [
+        "Creative UI Design",
+        "GSAP Animations",
+        "Interactive Websites",
+        "Motion Engineering",
+        "Experimental Frontend"
+    ],
+
+    philosophy:
+    "Design meets code. Code becomes experience."
+};
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=250&section=header&text=ABHAY%20BARMAN&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20ML%20Enthusiast&descAlignY=55&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
