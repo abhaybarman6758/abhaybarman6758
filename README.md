@@ -1,3 +1,165 @@
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08070d,50:241536,100:2DE3FF&height=220&section=header&text=ABHAY%20BARMAN&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%7C%20ML%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2DE3FF&center=true&vCenter=true&width=700&lines=const+abhay+%3D+new+Developer();Full+Stack+%2B+Mobile+App+Builder;Exploring+Machine+Learning;Open+to+Collaborate+%F0%9F%9A%80;Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
+
+<br>
+
+<a href="https://abhaybarman-067-my-portfolio-mr57.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_NOW-2DE3FF?style=for-the-badge&labelColor=08070d" alt="Portfolio" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ABHAYBARMAN067&color=FF2D78&style=for-the-badge&label=PROFILE+VIEWS&labelColor=08070d" alt="Profile Views" />
+<a href="https://github.com/ABHAYBARMAN067">
+  <img src="https://img.shields.io/github/followers/ABHAYBARMAN067?style=for-the-badge&color=2DE3FF&labelColor=08070d" alt="GitHub Followers" />
+</a>
+
+</div>
+
+<br>
+
+## `01` // ABOUT
+
+```yaml
+name:      Abhay Barman
+location:  India
+role:      Full Stack Developer
+focus:     Full Stack Dev · Mobile Apps · Machine Learning
+learning:  Advanced React & React Native
+open_to:   Web Apps · Mobile Apps · APIs · AI Projects
+contact:   abhaybarman067@gmail.com
+```
+
+- 🔭 Building **full stack + mobile apps** with modern frameworks
+- 🌱 Currently deepening skills in **Advanced React & React Native**
+- 🤖 Exploring the fundamentals of **Machine Learning**
+- ⚡ I mix creative UI with powerful backend logic
+- 📫 Reach me at **abhaybarman067@gmail.com**
+
+---
+
+## `02` // TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,mysql,aws,git,github,vscode,postman,linux,bash,figma&theme=dark&perline=11" />
+</p>
+
+<div align="center">
+
+| Category | Stack |
+|---|---|
+| **Languages** | Java · JavaScript · TypeScript · Python |
+| **Frontend** | React · Next.js · Tailwind CSS · Bootstrap |
+| **Backend** | Node.js · Express.js |
+| **Database** | MongoDB · MySQL |
+| **Cloud & Tools** | AWS · Git · GitHub · Postman · VS Code |
+| **Animation Libs** | Framer Motion · GSAP · Lenis · TSParticles |
+
+</div>
+
+---
+
+## `03` // PROJECT LOG
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Stack</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>🏨 <b>Hotel Reservation System</b></td>
+    <td>React · Node.js · Express · MongoDB</td>
+    <td>Hotel booking, food ordering & admin management system</td>
+  </tr>
+  <tr>
+    <td>🏠 <b>TripNest</b></td>
+    <td>Next.js 16 · TypeScript · MongoDB</td>
+    <td>Airbnb-inspired travel listing & booking platform</td>
+  </tr>
+  <tr>
+    <td>🛒 <b>Advanced E-Commerce Platform</b></td>
+    <td>React · Express · MongoDB · JWT</td>
+    <td>User, Seller & Admin role-based commerce system</td>
+  </tr>
+  <tr>
+    <td>📸 <b>The Golden Shutter</b></td>
+    <td>React · Node.js · Express · MongoDB</td>
+    <td>Wedding photography booking & gallery management platform</td>
+  </tr>
+  <tr>
+    <td>📦 <b>Inventory Management System</b></td>
+    <td>React · Node.js · Express · MongoDB</td>
+    <td>Inventory, stock tracking & role-based management system</td>
+  </tr>
+  <tr>
+    <td>🔥 <b>More Coming Soon</b></td>
+    <td>Full Stack · AI · Mobile</td>
+    <td>Continuously building and shipping new ideas</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## `04` // GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=radical&hide_border=true&bg_color=08070d&title_color=2DE3FF&icon_color=FF2D78&text_color=dcd9ea" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ABHAYBARMAN067&theme=radical&hide_border=true&background=08070d&ring=2DE3FF&fire=FF2D78&currStreakLabel=dcd9ea" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYBARMAN067&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=08070d&title_color=2DE3FF&text_color=dcd9ea" width="45%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAYBARMAN067&theme=react-dark&hide_border=true&bg_color=08070d&color=2DE3FF&line=FF2D78&point=ffffff" width="100%" />
+
+</div>
+
+---
+
+## `05` // CONNECT
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-08070d?style=for-the-badge&logo=vercel&logoColor=2DE3FF)](https://abhaybarman-067-my-portfolio-mr57.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-08070d?style=for-the-badge&logo=github&logoColor=2DE3FF)](https://github.com/ABHAYBARMAN067)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-08070d?style=for-the-badge&logo=linkedin&logoColor=2DE3FF)](https://www.linkedin.com/in/abhay-barman-9a0b3a277)
+[![CodePen](https://img.shields.io/badge/CodePen-08070d?style=for-the-badge&logo=codepen&logoColor=FF2D78)](https://codepen.io/Abhay-Barman)
+[![Gmail](https://img.shields.io/badge/Gmail-08070d?style=for-the-badge&logo=gmail&logoColor=FF2D78)](mailto:abhaybarman067@gmail.com)
+
+</div>
+
+<div align="center">
+
+> *"Build things you love. Break things to learn. Fix things to grow."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DE3FF,50:241536,100:08070d&height=150&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08070d,50:241536,100:2DE3FF&height=200&section=header&text=Creative%20Web%20Experiments&fontSize=55&fontColor=ffffff&animation=twinkling" width="100%" />
