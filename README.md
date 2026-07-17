@@ -1,5 +1,164 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08070d,30:1A0B2E,60:00E5FF,100:FF2D78&text=ABHAY%20BARMAN&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20ENGINEER%20//%20CYBERPUNK%20SYSTEM&descAlignY=58"/>
+
+# ⚡ SYSTEM PROFILE INITIALIZED
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=BOOTING+ABHAY+OS...;INITIALIZING+SYSTEM...;FULL+STACK+ENGINEER+DETECTED;REACT+%7C+NEXT.JS+%7C+NODE.JS+%7C+MONGODB;STATUS+%3A+ONLINE;MISSION+%3A+BUILD+THE+FUTURE" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ABHAYBARMAN067&style=for-the-badge&color=00E5FF&label=PROFILE+SCAN"/>
+
+<img src="https://img.shields.io/github/followers/ABHAYBARMAN067?style=for-the-badge&color=FF2D78&labelColor=08070d"/>
+
+<img src="https://img.shields.io/github/stars/ABHAYBARMAN067?style=for-the-badge&color=00E5FF&labelColor=08070d"/>
+
+</div>
+
+---
+
+# ```yaml
+███████████████████████████████████████████████████
+
+SYSTEM STATUS : ONLINE
+
+USER          : ABHAY_BARMAN
+
+ROLE          : FULL STACK ENGINEER
+
+LOCATION      : INDIA 🇮🇳
+
+MISSION       : BUILD • BREAK • LEARN • GROW
+
+VERSION       : v2026.07
+
+███████████████████████████████████████████████████
+```
+
+---
+
+# > cat profile.log
+
+```javascript
+const abhay = {
+
+    name: "Abhay Barman",
+
+    role: "Full Stack Developer",
+
+    username: "@ABHAYBARMAN067",
+
+    location: "India 🇮🇳",
+
+    education: "B.Tech Computer Science",
+
+    learning: [
+        "Next.js",
+        "React Native",
+        "System Design",
+        "Machine Learning"
+    ],
+
+    specialization: [
+        "Frontend",
+        "Backend",
+        "REST APIs",
+        "Database"
+    ],
+
+    currentlyBuilding: [
+        "TripNest",
+        "The Golden Shutter",
+        "Inventory System",
+        "Hotel Reservation Platform"
+    ],
+
+    mission:
+        "Design futuristic software with clean UI and powerful backend."
+}
+```
+
+---
+
+# ⚡ SYSTEM MODULES
+
+```text
+
+◉ FRONTEND ENGINE
+
+███████████████████████
+
+STATUS : ACTIVE
+
+
+
+◉ BACKEND ENGINE
+
+██████████████████████
+
+STATUS : ACTIVE
+
+
+
+◉ DATABASE CORE
+
+█████████████████████
+
+STATUS : CONNECTED
+
+
+
+◉ DEPLOYMENT NODE
+
+███████████████████
+
+STATUS : ONLINE
+
+```
+
+---
+
+# ⚡ TECH ARSENAL
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,html,css,git,github,vscode,figma,postman&theme=dark"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚠ CYBER TERMINAL
+
+```text
+
+guest@abhay:~$
+
+> boot developer.profile
+
+Loading...
+
+██████████████████████ 100%
+
+Developer Loaded Successfully.
+
+Status  : ONLINE
+
+Focus   : MERN STACK
+
+Mode    : BUILDING
+
+```
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0A1F,100:1A0025&height=220&section=header&text=SYSTEM%20BOOT%3A%20ABHAY_BARMAN&fontSize=38&fontAlignY=38&desc=%3E%20FULL_STACK_UNIT%20//%20ML_MODULE%20//%20STATUS%3A%20ONLINE&descAlignY=58&descSize=15&fontColor=2DE3FF&animation=twinkling" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=CCFF33&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+AGENT_ABHAY...;%3E+LOADING+CORE_MODULES+%5BOK%5D;%3E+BUILDING+FULL_STACK+%2B+MOBILE+SYSTEMS;%3E+MACHINE_LEARNING+PROTOCOL+%3A+ACTIVE;%3E+ACCESS_GRANTED.+WELCOME+OPERATOR." alt="Typing SVG" />
