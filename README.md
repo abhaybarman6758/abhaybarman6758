@@ -1,3 +1,263 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0A1F,100:1A0025&height=220&section=header&text=SYSTEM%20BOOT%3A%20ABHAY_BARMAN&fontSize=38&fontAlignY=38&desc=%3E%20FULL_STACK_UNIT%20//%20ML_MODULE%20//%20STATUS%3A%20ONLINE&descAlignY=58&descSize=15&fontColor=2DE3FF&animation=twinkling" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=CCFF33&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+AGENT_ABHAY...;%3E+LOADING+CORE_MODULES+%5BOK%5D;%3E+BUILDING+FULL_STACK+%2B+MOBILE+SYSTEMS;%3E+MACHINE_LEARNING+PROTOCOL+%3A+ACTIVE;%3E+ACCESS_GRANTED.+WELCOME+OPERATOR." alt="Typing SVG" />
+
+</div>
+
+<br>
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│ SYS://boot_sequence.log                                          │
+├──────────────────────────────────────────────────────────────────┤
+│ [OK] Loading kernel............................. DONE            │
+│ [OK] Mounting dev environment.................... DONE            │
+│ [OK] Establishing neural link..................... DONE            │
+│ [OK] Compiling full-stack modules................ DONE            │
+│ [OK] Calibrating ML subroutines................... DONE            │
+│                                                                    │
+│ STATUS       : ONLINE                                             │
+│ VERSION      : v2.0.26                                            │
+│ LOCATION     : INDIA [IN]                                         │
+│ MISSION      : BUILD // BREAK // LEARN // GROW                    │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<a href="https://abhaybarman-067-my-portfolio-mr57.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-ACCESS_TERMINAL-2DE3FF?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ABHAYBARMAN067&color=FF2D78&style=for-the-badge&label=SCANS+DETECTED&labelColor=0A0A0A" alt="Profile Views" />
+<a href="https://github.com/ABHAYBARMAN067">
+  <img src="https://img.shields.io/github/followers/ABHAYBARMAN067?style=for-the-badge&color=CCFF33&labelColor=0A0A0A&label=NETWORK+NODES" alt="GitHub Followers" />
+</a>
+
+</div>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
+
+## 「 IDENTITY // CLASSIFIED FILE 」
+
+</div>
+
+```yaml
+> AGENT PROFILE ──────────────────────────────────────
+
+  NAME          : Abhay Barman
+  USERNAME      : @ABHAYBARMAN067
+  ROLE          : Full Stack Developer / ML Enthusiast
+  CURRENT_MISSION : Building Full Stack + Mobile Systems
+  NATIONALITY   : Indian [IN]
+  STATUS        : 🟢 ONLINE — ACCEPTING NEW MISSIONS
+  EXPERIENCE    : MERN Stack · REST APIs · Cloud Deploy
+  LEARNING      : Advanced React & React Native
+  AVAILABILITY  : Web Apps · Mobile Apps · APIs · AI Projects
+  EMAIL         : abhaybarman067@gmail.com
+
+  DIRECTIVE     : "Build things you love.
+                    Break things to learn.
+                    Fix things to grow."
+──────────────────────────────────────────────────────
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
+
+## 「 SYSTEM SPECS // HARDWARE & PROTOCOLS 」
+
+</div>
+
+**◈ CORE LANGUAGES**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-2DE3FF?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/PYTHON-2DE3FF?style=for-the-badge&logo=python&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-CCFF33?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-CCFF33?style=for-the-badge&logo=typescript&logoColor=black&labelColor=0A0A0A" />
+</p>
+
+**◈ FRONTEND ENGINE**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REACT-FF2D78?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/NEXT.JS-FF2D78?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/TAILWIND-FF2D78?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/GSAP-FF2D78?style=for-the-badge&logo=greensock&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/FRAMER_MOTION-FF2D78?style=for-the-badge&logo=framer&logoColor=white&labelColor=0A0A0A" />
+</p>
+
+**◈ BACKEND ENGINE**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NODE.JS-CCFF33?style=for-the-badge&logo=nodedotjs&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/EXPRESS-CCFF33?style=for-the-badge&logo=express&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/MONGODB-CCFF33?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/MYSQL-CCFF33?style=for-the-badge&logo=mysql&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/REST_APIS-CCFF33?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=0A0A0A" />
+</p>
+
+**◈ TOOLS & DEPLOYMENT**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-2DE3FF?style=for-the-badge&logo=git&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/GITHUB-2DE3FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/POSTMAN-2DE3FF?style=for-the-badge&logo=postman&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/VS_CODE-2DE3FF?style=for-the-badge&logo=visualstudiocode&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/LINUX-2DE3FF?style=for-the-badge&logo=linux&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/AWS-2DE3FF?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/VERCEL-2DE3FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/FIGMA-2DE3FF?style=for-the-badge&logo=figma&logoColor=black&labelColor=0A0A0A" />
+</p>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
+
+## 「 ACTIVE MISSIONS // FILE ARCHIVE 」
+
+</div>
+
+```
+┌─ MISSION_001 ───────────────────────────────────────────────────┐
+│ CODENAME    : Hotel Reservation Form                             │
+│ STATUS      : 🟢 DEPLOYED                                        │
+│ STACK       : React · Node.js · Express · MongoDB                │
+│ OBJECTIVE   : Automate hotel booking & food ordering ops          │
+│ FEATURES    : Room Booking · Order System · Admin Console         │
+└────────────────────────────────────────────────────────────────┘
+
+┌─ MISSION_002 ───────────────────────────────────────────────────┐
+│ CODENAME    : TripNest                                           │
+│ STATUS      : 🟢 DEPLOYED                                        │
+│ STACK       : Next.js 16 · TypeScript · MongoDB                  │
+│ OBJECTIVE   : Airbnb-inspired travel listing & booking grid       │
+│ FEATURES    : Listings Engine · Booking Flow · Search Filters     │
+└────────────────────────────────────────────────────────────────┘
+
+┌─ MISSION_003 ───────────────────────────────────────────────────┐
+│ CODENAME    : Advanced E-Commerce Platform                       │
+│ STATUS      : 🟢 DEPLOYED                                        │
+│ STACK       : React · Express · MongoDB · JWT                    │
+│ OBJECTIVE   : Multi-role commerce grid (User/Seller/Admin)        │
+│ FEATURES    : Auth Layer · Role Access · Order Pipeline           │
+└────────────────────────────────────────────────────────────────┘
+
+┌─ MISSION_004 ───────────────────────────────────────────────────┐
+│ CODENAME    : The Golden Shutter                                 │
+│ STATUS      : 🟢 DEPLOYED                                        │
+│ STACK       : React · Node.js · Express · MongoDB                │
+│ OBJECTIVE   : Wedding photography booking & gallery network       │
+│ FEATURES    : Gallery Vault · Booking System · Client Panel       │
+└────────────────────────────────────────────────────────────────┘
+
+┌─ MISSION_005 ───────────────────────────────────────────────────┐
+│ CODENAME    : Inventory Management System                        │
+│ STATUS      : 🟢 DEPLOYED                                        │
+│ STACK       : React · Node.js · Express · MongoDB                │
+│ OBJECTIVE   : Real-time stock tracking & role-based control       │
+│ FEATURES    : Stock Radar · Role Access · Analytics Panel         │
+└────────────────────────────────────────────────────────────────┘
+
+┌─ MISSION_006 ───────────────────────────────────────────────────┐
+│ CODENAME    : [ CLASSIFIED — INCOMING ]                          │
+│ STATUS      : 🟡 STANDBY                                         │
+│ STACK       : Full Stack · AI · Mobile Systems                   │
+│ OBJECTIVE   : Continuous deployment of new mission files          │
+└────────────────────────────────────────────────────────────────┘
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
+
+## 「 CURRENT OBJECTIVES // LEARNING ROADMAP 」
+
+</div>
+
+```
+REACT NATIVE     ████████████████░░░░░░░░  65%
+SYSTEM DESIGN    ███████████░░░░░░░░░░░░░  45%
+DOCKER           █████████░░░░░░░░░░░░░░░  35%
+AWS              ██████████░░░░░░░░░░░░░░  40%
+DSA              █████████████░░░░░░░░░░░  55%
+BACKEND          █████████████████░░░░░░░  70%
+DEVOPS           ████████░░░░░░░░░░░░░░░░  30%
+AI / ML          ██████████░░░░░░░░░░░░░░  42%
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
+
+## 「 SYSTEM ANALYTICS // DATA STREAM 」
+
+<img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2DE3FF&icon_color=FF2D78&text_color=CCFF33" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ABHAYBARMAN067&theme=tokyonight&hide_border=true&background=00000000&ring=FF2D78&fire=2DE3FF&currStreakLabel=CCFF33&sideNums=CCFF33&currStreakNum=2DE3FF&dates=FFFFFF" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYBARMAN067&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2DE3FF&text_color=CCFF33" width="60%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAYBARMAN067&theme=github-dark&hide_border=true&bg_color=00000000&color=2DE3FF&line=FF2D78&point=CCFF33" width="100%" />
+
+</div>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
+
+## 「 NETWORK CONNECTIONS // ESTABLISH SECURE LINK 」
+
+```
+> ESTABLISHING SECURE CONNECTION...
+> ENCRYPTION: AES-256
+> HANDSHAKE COMPLETE
+```
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2DE3FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0A0A0A)](https://abhaybarman-067-my-portfolio-mr57.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-CCFF33?style=for-the-badge&logo=github&logoColor=black&labelColor=0A0A0A)](https://github.com/ABHAYBARMAN067)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF2D78?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/abhay-barman-9a0b3a277)
+[![CodePen](https://img.shields.io/badge/CODEPEN-2DE3FF?style=for-the-badge&logo=codepen&logoColor=black&labelColor=0A0A0A)](https://codepen.io/Abhay-Barman)
+[![Email](https://img.shields.io/badge/EMAIL-CCFF33?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0A0A0A)](mailto:abhaybarman067@gmail.com)
+
+</div>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────┐
+│              SYSTEM STATUS                    │
+│                                                │
+│  ████████████████████████████  100%          │
+│                                                │
+│  STATUS  : 🟢 ONLINE                          │
+│  STATE   : MISSION READY                      │
+│  QUEUE   : WAITING FOR NEXT DEPLOYMENT...     │
+└──────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0025,50:0A0A1F,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Conversation with Gemini
 final code polish Remove Duplicte
