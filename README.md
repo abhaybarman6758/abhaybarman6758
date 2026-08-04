@@ -1,3 +1,35 @@
+
+
+
+
+
+![GitHub stars](https://img.shields.io/github/stars/ABHAYBARMAN067/MERN-Stack-Development?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/ABHAYBARMAN067/MERN-Stack-Development?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/ABHAYBARMAN067/MERN-Stack-Development?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08070d,30:1A0B2E,60:00E5FF,100:FF2D78&text=ABHAY%20BARMAN&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20ENGINEER%20//%20CYBERPUNK%20SYSTEM&descAlignY=58"/>
