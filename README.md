@@ -79,7 +79,7 @@ Perfect! Here's your fully colorful, upgraded README.md. Just copy-paste this in
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -192,7 +192,6 @@ graph LR
     ┗ 🚀 Final-MERN-Project
 ```
 
----
 
 <div align="center">
 
@@ -215,7 +214,7 @@ graph LR
 </tr>
 </table>
 
----
+
 
 <div align="center">
 
@@ -225,7 +224,7 @@ graph LR
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -236,9 +235,9 @@ graph LR
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
-```
 
----
+
+
 
 **🎁 Extras included:**
 - ✨ Animated typing SVG banner
