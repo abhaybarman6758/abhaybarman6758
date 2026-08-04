@@ -1,6 +1,6 @@
 Perfect! Here's your fully colorful, upgraded README.md. Just copy-paste this into your repo:
 
----
+
 
 ```markdown
 <!-- 🌈 ANIMATED HEADER BANNER -->
