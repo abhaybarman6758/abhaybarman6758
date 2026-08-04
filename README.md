@@ -1,9 +1,8 @@
 # 🚀 MERN Stack Development
 
-> A complete roadmap for learning **Full Stack Web Development** using the **MERN Stack**.
+> A complete roadmap for learning ![Full Stack Web Development](https://img.shields.io/badge/-Full%20Stack%20Web%20Development-brightgreen?style=flat-square) using the ![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-brightgreen?style=flat-square).
 >
-> **Note:** This repository is created for **self-learning purposes** and documents my learning journey, practice notes, and projects.
-
+> **Note:** This repository is created for ![self-learning purposes](https://img.shields.io/badge/-self--learning%20purposes-brightgreen?style=flat-square) and documents my learning journey, practice notes, and projects.
 ---
 
 <div align="center">
