@@ -2,7 +2,7 @@ Perfect! Here's your fully colorful, upgraded README.md. Just copy-paste this in
 
 
 
-```markdown
+
 <!-- 🌈 ANIMATED HEADER BANNER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+MERN+Stack+Development;💻+Full+Stack+Web+Development;🎯+Learn+•+Build+•+Deploy;✨+MongoDB+•+Express+•+React+•+Node" alt="Typing SVG" />
